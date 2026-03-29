@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Skygamer_hub.aternos.me",
+    "ip": "Skygamer_hub.aternos.me:46746",
     "port": 46746,
     "version": "1.21.10"
   },
